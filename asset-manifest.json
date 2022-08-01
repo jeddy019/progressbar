@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/progressbar/static/css/main.2ad8ad8c.css",
+    "main.js": "/progressbar/static/js/main.db58937e.js",
+    "static/js/787.c1112931.chunk.js": "/progressbar/static/js/787.c1112931.chunk.js",
+    "index.html": "/progressbar/index.html",
+    "static/media/checkmark.svg": "/progressbar/static/media/checkmark.77ec561d595edd25c26539017506a3a4.svg",
+    "main.2ad8ad8c.css.map": "/progressbar/static/css/main.2ad8ad8c.css.map",
+    "main.db58937e.js.map": "/progressbar/static/js/main.db58937e.js.map",
+    "787.c1112931.chunk.js.map": "/progressbar/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad8ad8c.css",
+    "static/js/main.db58937e.js"
+  ]
+}
